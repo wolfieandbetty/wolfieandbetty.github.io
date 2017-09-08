@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " Teaching an Old Cat new tricks"
-date:   2017-09-08 06:02:18 +0000
+date:   2017-09-08 02:02:24 -0400
 ---
 
 
