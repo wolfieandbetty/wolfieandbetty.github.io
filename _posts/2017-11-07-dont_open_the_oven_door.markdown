@@ -16,34 +16,32 @@ This was my experience with Methods. I haven't written code in a very long time 
 
 I finally figured it out after going back through previous course material READING it and finally the lightbulb went off and I did a little test with IRB:
 
+```
 def speak (phrase="I don't know")
-
 phrase==phrase.upcase
-
 end
 
 
 speak
-
 =>false
+```
+
+
+
 
 
 BUT! If I open the oven door to get a peek (insert a PUTS) I get this:
-
+```
 def speak (phrase="I don't know")
-
 phrase==phrase.upcase
-
 puts phrase
-
 end
 
 
-
 speak
-
 I don't know
-
 =>nil
+```
+
 
 Doh!!  Lesson learned. Read instructions with beginner's mind, don't substitute real understanding about how to get the results you are aiming for by assuming that old knowledge will solve a new problem. There will be many reasons that you may not get the results you expect but hopefully, if like me you made this same mistake, you can put this one behind you.
